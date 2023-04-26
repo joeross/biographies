@@ -1,9 +1,5 @@
-I’m bored of my usual bio.
+“It’s okay: I’m a lawyer.” — Me
 
-Let’s do something more fun.
-
-I 💼 in ⚖️ in Philly, 🏠 with my 👩‍👧‍👦in Princeton, and 💬 about 💻⌨️🎮🎵✍️📰 and other stuff on the 🌎😳🕸️.
-
-Interests:
-
-#lawfedi // #litigation // #law // #parenting // #tech // #natsec // #scifi // #indieweb // #neurodivergence // #adhd
+“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” — Sir Arthur Conan Doyle, Sherlock Holmes
+ Interests:
+ #lawfedi // #litigation // #law // #parenting // #tech // #natsec // #scifi // #indieweb // #neurodivergence // #adhd
