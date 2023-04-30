@@ -1,6 +1,3 @@
-<JOE is=“lawyer; geek; writer;”>
+Sometimes I dad, sometimes I lawyer, sometimes I internet.
 
-<WHERE work=“Philadelphia”; home=“Princeton”>
-
-<INTERNET website=“https://joeross.me; mastodon=“https://mastodon.social/@joeross; microblog=“https://microblog.joeross.me;”>
-
+https://joeross.me
